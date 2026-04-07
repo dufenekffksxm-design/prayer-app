@@ -1,0 +1,21 @@
+{
+  "name": "주님께 기도를 배우다",
+  "short_name": "기도를 배우다",
+  "description": "하나님 나라를 살아내는 기도 - 진실한숲교회",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a2614",
+  "theme_color": "#1a2614",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
